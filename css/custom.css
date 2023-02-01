@@ -1,0 +1,45 @@
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+
+.title{
+  font-size: 82px;
+  line-height: 1.285;
+  font-weight: 50;
+  margin-bottom: 20px;
+  letter-spacing: -0.036em;
+}
+
+.subtitle{
+  font-size: 20px;
+  line-height: 1.17;
+  font-weight: 200;
+}
+
+.subtitle-1{
+  font-size: 27px;
+  line-height: 1.17;
+  font-weight: 200;
+}
+
+.subtitle-2{
+  font-size: 25px;
+  line-height: 1.17;
+  font-weight: 200;
+}
+
+.paragraph{
+  font-size: 25px;
+  line-height: 1.6363636364;
+  margin-bottom: 30px;
+  font-weight: 100;
+}
+
+.lyric{
+  font-size:22px;
+  font-weight: 100;
+}
