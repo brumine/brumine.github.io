@@ -32,6 +32,12 @@ hr {
   font-weight: 200;
 }
 
+.subtitle-footer{
+  font-size: 20px;
+  line-height: 1.0;
+  font-weight: 200;
+}
+
 .paragraph{
   font-size: 25px;
   line-height: 1.6363636364;
