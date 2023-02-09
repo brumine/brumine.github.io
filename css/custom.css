@@ -5,13 +5,24 @@ hr {
     border-top: 1px solid rgba(255, 255, 255, 0.3);
   }
 
+@media (min-width: 720px) {
+  .title{
+    font-size: 82px;
+    line-height: 1.285;
+    font-weight: 50;
+    margin-bottom: 20px;
+    letter-spacing: -0.036em;
+  }  
+}
 
-.title{
-  font-size: 82px;
-  line-height: 1.285;
-  font-weight: 50;
-  margin-bottom: 20px;
-  letter-spacing: -0.036em;
+@media (max-width: 719px) {
+  .title{
+    font-size: 52px;
+    line-height: 1.100;
+    font-weight: 150;
+    margin-bottom: 20px;
+    letter-spacing: -0.036em;
+  }  
 }
 
 .subtitle{
@@ -67,6 +78,8 @@ hr {
   left: 20px;
   z-index: 100;
 }
+
+
 
 /*BACKGROUND*/
 @media (min-width: 720px) {
