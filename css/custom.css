@@ -58,10 +58,52 @@ hr {
   border-color: #000;
   font-size:15px;
   font-weight: 600;
+  cursor: pointer;
 }
 
-#mybutton {
+#nav_rsvp {
   position: fixed;
   top: 20px;
   left: 20px;
+  z-index: 100;
 }
+
+/*BACKGROUND*/
+@media (min-width: 720px) {
+  #slide_1 {
+    background-image:url(../assets/img/background/img-brumine-1.jpg)
+  }
+  
+  #slide_2 {
+    background-image:url(../assets/img/background/img-brumine-2.jpg)
+  }
+  
+  #slide_3 {
+    background-image:url(../assets/img/background/img-brumine-3.jpg)
+  }
+  
+  #slide_4 {
+    background-image:url(../assets/img/background/img-brumine-4.jpg)
+  }
+  
+  #slide_5 {
+    background-image:url(../assets/img/background/img-brumine-5.jpg)
+  }
+  
+  #slide_6 {
+    background-image:url(../assets/img/background/img-brumine-6.jpg)
+  }
+  
+  #slide_7 {
+    background-image:url(../assets/img/background/img-brumine-7.jpg)
+  }
+  
+  #slide_8 {
+    background-image:url(../assets/img/background/img-brumine-8.jpg)
+  }
+  
+  #slide_9 {
+    background-image:url(../assets/img/background/img-brumine-9.jpg)
+  }
+}
+
