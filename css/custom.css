@@ -107,3 +107,40 @@ hr {
   }
 }
 
+@media (max-width: 719px) {
+  #slide_1 {
+    background-image:url(../assets/img/background/img-brumine-1.jpg)
+  }
+  
+  #slide_2 {
+    background-image:url(../assets/img/background/img-brumine-mobile-2.jpg)
+  }
+  
+  #slide_3 {
+    background-image:url(../assets/img/background/img-brumine-mobile-3.jpg)
+  }
+  
+  #slide_4 {
+    background-image:url(../assets/img/background/img-brumine-mobile-4.jpg)
+  }
+  
+  #slide_5 {
+    background-image:url(../assets/img/background/img-brumine-mobile-5.jpg)
+  }
+  
+  #slide_6 {
+    background-image:url(../assets/img/background/img-brumine-mobile-6.jpg)
+  }
+  
+  #slide_7 {
+    background-image:url(../assets/img/background/img-brumine-mobile-7.jpg)
+  }
+  
+  #slide_8 {
+    background-image:url(../assets/img/background/img-brumine-mobile-8.jpg)
+  }
+  
+  #slide_9 {
+    background-image:url(../assets/img/background/img-brumine-mobile-9.jpg)
+  }
+}
