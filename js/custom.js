@@ -53,3 +53,15 @@ if ($(window).width() < 720) {
 else {
   iframe_map.innerHTML += `<div class="opacity-8 gmap_canvas"><iframe width="700" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Endere%C3%A7o:%20Av.%20Tr%C3%AAs%20Barras,%20968%20-%20Vila%20Vilas%20Boas,%20Campo%20Grande%20-%20MS,%2079051-290&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:300px;width:700px;}</style><a href="https://www.embedgooglemap.net">google map codes for website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:700px;}</style></div>`;
 }
+
+
+//Music 
+var music= document.getElementById("music");
+var menu_music = document.getElementById('menu-music');
+function playOrPause() {
+  if(menu_music.classList.contains('active')){
+    music.play();
+  }else{
+    music.pause();
+  }
+}
