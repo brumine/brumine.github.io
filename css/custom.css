@@ -120,39 +120,102 @@ hr {
 
 @media (max-width: 719px) {
   #slide_1 {
-    background-image:url(../assets/img/background/img-brumine-1.jpg)
+    background-image:url(../assets/img/background/img-brumine-1.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_2 {
-    background-image:url(../assets/img/background/img-brumine-mobile-2.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-2.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_3 {
-    background-image:url(../assets/img/background/img-brumine-mobile-3.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-3.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_4 {
-    background-image:url(../assets/img/background/img-brumine-mobile-4.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-4.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_5 {
-    background-image:url(../assets/img/background/img-brumine-mobile-5.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-5.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_6 {
-    background-image:url(../assets/img/background/img-brumine-mobile-6.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-6.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_7 {
-    background-image:url(../assets/img/background/img-brumine-mobile-7.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-7.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_8 {
-    background-image:url(../assets/img/background/img-brumine-mobile-8.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-8.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   
   #slide_9 {
-    background-image:url(../assets/img/background/img-brumine-mobile-9.jpg)
+    background-image:url(../assets/img/background/img-brumine-mobile-9.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
 }
 
