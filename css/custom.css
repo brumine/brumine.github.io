@@ -5,7 +5,15 @@
     font-weight: 50;
     margin-bottom: 20px;
     letter-spacing: -0.036em;
-  }  
+  } 
+  
+  .title-2{
+    font-size: 52px;
+    line-height: 1.285;
+    font-weight: 50;
+    margin-bottom: 20px;
+    letter-spacing: -0.036em;
+  } 
 }
 
 @media (max-width: 719px) {
@@ -15,7 +23,15 @@
     font-weight: 150;
     margin-bottom: 20px;
     letter-spacing: -0.036em;
-  }  
+  }
+  
+  .title-2{
+    font-size: 38px;
+    line-height: 1.285;
+    font-weight: 50;
+    margin-bottom: 20px;
+    letter-spacing: -0.036em;
+  }
 }
 
 /*BACKGROUND*/
@@ -62,6 +78,10 @@
 
   #slide_madrinha_2 {
     background-image:url(../assets/img/background/img-madrinha-2.jpg)
+  }
+
+  #slide_madrinha_3 {
+    background-image:url(../assets/img/background/img-madrinha-3.jpg)
   }
 }
 
@@ -186,6 +206,17 @@
     -o-background-size: cover;
     background-size: cover;
   }
+
+  #slide_madrinha_3 {
+    background-image:url(../assets/img/background/img-madrinha-3.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;       
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 }
 
 
@@ -206,6 +237,12 @@ hr {
   font-size: 27px;
   line-height: 1.17;
   font-weight: 280;
+}
+
+.subtitle-godmother{
+  font-size: 26px;
+  line-height: 1.17;
+  font-weight: 300;
 }
 
 .subtitle-footer{
@@ -574,4 +611,15 @@ hr {
     57.20925% 42.53029%,
     56.87342% 42.46916%
   );
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+.read-background{
+  background-color:rgba(0,0,0,0.4);
+  padding: 10px;
+  border-radius: 10px;
 }
