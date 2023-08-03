@@ -287,6 +287,13 @@ hr {
   z-index: 100;
 }
 
+#nav_presents {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 100;
+}
+
 /*MUSIC PLAYER*/
 #music{
   display: none;
